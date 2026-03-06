@@ -1,5 +1,6 @@
 <div align="center" style="width=700">
   <a href="https://mah-p.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/253b9e0d-8bfe-427b-82f4-a67cee7ec620" alt="Gitlap" width="700" />
+   <img width="1536" height="1024" alt="ChatGPT Image Mar 6, 2026, 09_11_02 PM" src="https://github.com/user-attachments/assets/6fb7a74f-7f5e-4bc6-ac3f-a7357a395de8" />
   </a>
 </div>
+
