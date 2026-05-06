@@ -1,11 +1,9 @@
-<div align="center" style="width=700">
-  <a href="https://mah-p.vercel.app/">
-
-
-
-https://github.com/user-attachments/assets/b8bd90fd-1f63-4a57-a297-33a3137b04ba
-
-
+<p align="center">
+  <a href="https://mah-p.vercel.app/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/coding-preview.gif"
+      alt="Portfolio preview - live coding animation"
+      width="700"
+    />
   </a>
-</div>
-
+</p>
