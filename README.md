@@ -5,3 +5,4 @@ now I summon bugs professionally with ⚡ Next.js • Nuxt.js • TypeScript •
 
 🧠 turning caffeine into code since day one  
 🐧 currently fighting Linux and winning (sometimes)
+🚨 professionally fixing bugs I created myself
