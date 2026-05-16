@@ -7,4 +7,4 @@ now I summon bugs professionally with ⚡ Next.js • Nuxt.js • TypeScript •
 🐧 currently fighting Linux and winning (sometimes)
 🚨 professionally fixing bugs I created myself
 
-<img width="1672" height="941" alt="ChatGPT Image May 16, 2026, 09_05_42 PM" src="https://github.com/user-attachments/assets/d4a90afa-9709-45cc-ad5b-38bbb508366b" />
+<img width="1672" height="941" alt="ChatGPT Image May 16, 2026, 09_05_42 PM" src="https://github.com/user-attachments/assets/1a118038-f430-4100-a0b4-00ae6e667d3d" />
